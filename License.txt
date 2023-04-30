@@ -1,0 +1,1 @@
+The machine learning models have been trained on a dataset called 'Autism screening data for toddlers' published by Dr. Fadi Fayez Thabtah on the Kaggle platform. The publisher has not supplied a sharing license but instead requested relevant references to be supplied as part of every work which utilises the data. Please check the ReadMe file foe the required references.
