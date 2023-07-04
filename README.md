@@ -1,7 +1,7 @@
 # Final Year Project - Jupyter Notebooks
 ### Kalina Nikolova, 2023
 
-The following repository contains jupyter notebooks created as part of the final year project titled 'Implementing AI within a Digital Healthcare App for Early Detection of Autism Spectrum Disorder and Exploring the Diagnostic Gender Gap'.
+The following repository contains jupyter notebooks created as part of the final year project titled 'Implementing AI within a Digital Healthcare App for Early Detection of Autism Spectrum Disorder and Exploring the Diagnostic Gender Gap' (Available at: **https://drive.google.com/file/d/1i6SZIUVpFOBOCqKMIyTsAbdmrTc5aWpy/view?usp=sharing**).
 The utilised dataset was made freely available on the Kaggle platform. The data publisher (Dr. Fadi Fayez Thabtah) has not supplied a license but,according to his notes, allows usage of the data on the condition that his work is properly cited.
 
 ### References:
